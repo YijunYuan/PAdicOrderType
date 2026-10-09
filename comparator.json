@@ -1,0 +1,19 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "TargetsCheck",
+  "theorem_names": [
+    "PAdicOrderType.typeLT_support_le_omega0_or_eq_omega0_pow_omega0",
+    "PAdicOrderType.support_finite_of_isAlgebraic_of_isBounded",
+    "PAdicOrderType.typeLT_support_eq_nat_or_eq_omega0_or_eq_omega0_pow_omega0",
+    "PAdicOrderType.typeLT_support_padicAlgCl_le_omega0_or_eq_omega0_pow_omega0",
+    "PAdicOrderType.typeLT_support_le_omega0_iff_mem_pAdicStrictPuiseux_range",
+    "PAdicOrderType.typeLT_support_padicAlgCl_le_omega0_iff_mem_pAdicStrictPuiseux",
+    "PAdicOrderType.bialgebraic_tfae"
+  ],
+  "permitted_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "enable_nanoda": false
+}
